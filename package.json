@@ -1,0 +1,31 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Simple Express App With Basic Functionalities",
+  "main": "index.js",
+  "private": false,
+  "files": [
+    "README.md"
+  ],
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "author": "Arsalan-Ahmed-Solangi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.6",
+    "simple-git": "^3.27.0"
+  },
+  "keywords": [
+    "express",
+    "api-node",
+    "node-project",
+    "node-setup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arsalan-Ahmed-Solangi/express-api-project.git"
+  }
+}
