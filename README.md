@@ -14,13 +14,13 @@ This is a simple Express.js application. Follow the steps below to set up and ru
    - Using npm:
 
      ```bash
-     npm install node-api-project-structure
+     npm install express-app-gen
      ```
 
    - Or using Yarn:
 
      ```bash
-     yarn add node-api-project-structure
+     yarn add  express-app-gen
      ```
 
 2. **Delete the node_modules folder**:
